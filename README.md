@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabszero)](https://github.com/gabszero/github-readme-stats)
+![GabsZero's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabszero&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabszero&show_icons=true&theme=radical)](https://github.com/gabszero/github-readme-stats)
+
 
 
 <!--
